@@ -5,7 +5,7 @@ window = tk.Tk()
 label = tk.Label(
     text="Hello, Tkinter",
     foreground="white",  
-    background="green",
+    background="blue",
     width=50,
     height=25
 )
