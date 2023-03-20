@@ -41,6 +41,9 @@ Recharge = ArrierePlan.create_image(0,0, anchor=NW, image=Recharge_import)
 Stockage_import = tk.PhotoImage(file="main/map/assets/stockage.png")
 Stockage = ArrierePlan.create_image(0,0, anchor=NW, image=Stockage_import)
 
+Decor_import = tk.PhotoImage(file="main/map/assets/decor.png")
+Decor = ArrierePlan.create_image(0,0, anchor=NW, image=Decor_import)
+
 
 fenetre.pack()
 interface.pack()
