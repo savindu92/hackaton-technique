@@ -1,5 +1,6 @@
 import tkinter as tk
 from tkinter import*
+import webbrowser
 
 window = tk.Tk()
 
@@ -8,9 +9,13 @@ fenetre = tk.Frame()
 #Interface de jeu
 interface = tk.Frame()
 
+def open_link():
+    webbrowser.open("https://devinci-my.sharepoint.com/personal/enzo_ait_yakoub_edu_devinci_fr/_layouts/15/guestaccess.aspx?docid=0fc8dcda3fcc24a77a63d4d39101261cc&authkey=AQ9U1MkZd9jifT98ZnAyVi0&e=ALpAuX",new=1)
+
 button = tk.Button(
     master=fenetre,
-    text="Infos map"
+    text="Infos map",
+    command=open_link
 )
 
 button.pack()
