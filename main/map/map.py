@@ -1,5 +1,7 @@
 import tkinter as tk
 from tkinter import*
+import random
+import deplacement_aleatoire 
 
 window = tk.Tk()
 
@@ -14,6 +16,19 @@ button = tk.Button(
 )
 
 button.pack()
+
+app = deplacement_aleatoire.App()
+
+
+
+
+
+
+
+
+
+
+
 
 ArrierePlan = tk.Canvas( 
     master=interface,
