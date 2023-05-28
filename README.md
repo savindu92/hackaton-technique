@@ -11,14 +11,21 @@ Agents also need to manage their battery charge by planning visits to recharge s
 The goal of the project is to develop the agents, their environment, and the overall management of the system. Initially, the project will focus on single-agent teams where robots move randomly. Later, intelligent behaviors will be added to the agents to optimize their movements.
 
 ## Project Instruction:
-Use the Python programming language with the Tkinter library for the graphical interface.
-Work in groups of 3 or 4 students.
-Produce an analysis and design report including use case and class diagrams.
-Utilize an Agile project management methodology.
-Provide a programming report describing the progress, improvements made, and tests conducted.
-Prepare a project management report containing the planned and actual schedules, task allocation, version control solution, performed tests, and a personal assessment.
-The project evaluation will be based on 15 points for the reports and the developed solution.
-An additional score of up to 5 points will be given for any original ideas integrated into the system and the visual quality of the simulation.
+-Use the Python programming language with the Tkinter library for the graphical interface.
+
+-Work in groups of 3 or 4 students.
+
+-Produce an analysis and design report including use case and class diagrams.
+
+-Utilize an Agile project management methodology.
+
+-Provide a programming report describing the progress, improvements made, and tests conducted.
+
+-Prepare a project management report containing the planned and actual schedules, task allocation, version control solution, performed tests, and a personal assessment.
+
+-The project evaluation will be based on 15 points for the reports and the developed solution.
+
+-An additional score of up to 5 points will be given for any original ideas integrated into the system and the visual quality of the simulation.
 
 ## Remarks:
 The project supervisor acts as the "client" and will assist with UML and Python but does not direct the work.
